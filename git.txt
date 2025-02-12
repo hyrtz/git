@@ -13,4 +13,5 @@ git reset (directory_name) -> from stagged to working change
 git checkout -- (file_name) -> reset changes in working area
 
 
-* completing the version history 
+* completing the version history
+* viewing previous versions of the code 
