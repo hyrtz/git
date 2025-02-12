@@ -1,0 +1,16 @@
+visualizing git + git fundamentals 
+
+
+git status -> tell what changes you made from prev status
+git add (folder_name) -> pick which changes we want in our next version
+                            // ''.' -> add all files 
+git commit -m -> creates new version; version == commit 
+            // '-m' -> attaching msg to the commit 
+git log -> to see version history 
+
+
+git reset (directory_name) -> from stagged to working change 
+git checkout -- (file_name) -> reset changes in working area
+
+
+* completing the version history 

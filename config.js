@@ -1,5 +1,5 @@
 console.log('config.js');
-console.log('version1');
+console.log('version2');
 
 // git status -> tell what changes you made from prev status
 // git add (folder_name) -> pick which changes we want in our next version
