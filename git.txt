@@ -7,11 +7,13 @@ git add (folder_name) -> pick which changes we want in our next version
 git commit -m -> creates new version; version == commit 
             // '-m' -> attaching msg to the commit 
 git log -> to see version history 
-
+git checkout -- (file_name) -> reset changes
 
 git reset (directory_name) -> from stagged to working change 
-git checkout -- (file_name) -> reset changes in working area
 
 
 * completing the version history
+
 * viewing previous versions of the code 
+git checkout (commit hash) -> tell which version you wanna go back to 
+// commit hash == id nung commit
